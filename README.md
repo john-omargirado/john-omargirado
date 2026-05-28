@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1d4ed8,60:7c3aed,100:38bdf8&height=220&section=header&animation=fadeIn&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1e3a8a,60:3b82f6,100:60a5fa&height=220&section=header&animation=twinkling&desc=⚡%20SYSTEM%20ONLINE&descAlignY=65&descAlign=50" />
 </p>
 
 <p align="center">
