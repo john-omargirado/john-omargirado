@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1e3a8a,60:3b82f6,100:60a5fa&height=220&section=header&animation=twinkling&desc=⚡%20SYSTEM%20ONLINE&descAlignY=65&descAlign=50" />
-</p>
+![Header](./github-header-banner.png)
 
 <p align="center">
   Full Stack Developer · ML Systems · AI Agents
