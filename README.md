@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=John%20Omar%20Girado&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -17,20 +17,38 @@ I build full-stack and ML-powered systems, from REST APIs and data pipelines to 
 
 ## Tech Stack
 
-**Core**  
-Python, Machine Learning, LangGraph, REST APIs, React
+### Core Skills
+Python (90%)  
+Machine Learning (80%)  
+LangGraph (75%)  
+REST APIs (90%)  
+React (80%)
 
-**Languages**  
-HTML, CSS, JavaScript, Python, PHP, SQL
+### Languages
+HTML (95%)  
+CSS (90%)  
+JavaScript (85%)  
+Python (90%)  
+PHP (70%)  
+SQL (85%)
 
-**Frameworks**  
-Django, Flask, FastAPI, Laravel, Tailwind, LangChain, LangGraph
+### Frameworks
+Django (80%)  
+Flask (80%)  
+FastAPI (90%)  
+Laravel (80%)  
+Tailwind CSS (85%)  
+LangChain (75%)  
+LangGraph (75%)
 
-**Databases**  
-SQLite, MySQL
+### Databases
+SQLite (85%)  
+MySQL (85%)
 
-**Tools**  
-GitHub, Postman, DigitalOcean
+### Tools
+GitHub (90%)  
+Postman (85%)  
+DigitalOcean (70%)
 
 ---
 
@@ -38,15 +56,6 @@ GitHub, Postman, DigitalOcean
 
 BU ICTO, Junior Full Stack Developer  
 Worked on UI modernization, backend optimization, and interactive system development using Tailwind CSS, PostgreSQL, and Livewire.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johngirado&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johngirado&layout=compact&theme=github_dark" height="160"/>
-</p>
 
 ---
 
