@@ -1,4 +1,6 @@
-![Header](./github-header-banner(1).png)
+<p align="center">
+  <img src="./github-header-banner(1).png" />
+</p>
 
 <p align="center">
   Full Stack Developer · ML Systems · AI Agents
