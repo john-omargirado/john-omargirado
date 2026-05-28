@@ -81,4 +81,4 @@ Worked on UI modernization, backend optimization, and interactive system develop
 
 Email: johngirado1@gmail.com  
 LinkedIn: https://www.linkedin.com/in/john-omar-girado-476a7232a  
-GitHub: https://github.com/johngirado
+GitHub: https://github.com/john-omargirado
