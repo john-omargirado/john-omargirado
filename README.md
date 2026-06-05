@@ -2,9 +2,6 @@
   <img src="./github-header-banner.png" />
 </p>
 
-<p align="center">
-  Full Stack Developer · ML Systems · AI Agents
-</p>
 
 ---
 
