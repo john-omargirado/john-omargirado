@@ -10,7 +10,9 @@
 
 <br/>
 
-## `$ cat about.md`
+<p align="center">
+  <img src="./term-about.svg" alt="$ cat about.md" />
+</p>
 
 > BS Computer Science graduate from Bicol University.
 > Building full-stack and ML-powered systems, from REST APIs and data pipelines to agent-based AI applications.
@@ -21,7 +23,9 @@
 
 <br/>
 
-## `$ ls skills/`
+<p align="center">
+  <img src="./term-skills.svg" alt="$ ls skills/" />
+</p>
 
 **`core/`**
 
@@ -75,7 +79,9 @@
 
 <br/>
 
-## `$ git log -1 --stat experience`
+<p align="center">
+  <img src="./term-experience.svg" alt="$ git log -1 --stat experience" />
+</p>
 
 ```
 commit 9f3a2c1
@@ -94,7 +100,9 @@ Role:   Junior Full Stack Developer @ BU ICTO
 
 <br/>
 
-## `$ git log --graph --since="1 year ago"`
+<p align="center">
+  <img src="./term-contrib.svg" alt='$ git log --graph --since="1 year ago"' />
+</p>
 
 <p align="center">
   <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
@@ -102,7 +110,9 @@ Role:   Junior Full Stack Developer @ BU ICTO
 
 <br/>
 
-## `$ curl -s api.github.com/stats/john-omargirado`
+<p align="center">
+  <img src="./term-stats.svg" alt="$ curl -s api.github.com/stats/john-omargirado" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=john-omargirado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1ED760&icon_color=1ED760" alt="GitHub Stats" />
@@ -115,7 +125,9 @@ Role:   Junior Full Stack Developer @ BU ICTO
 
 <br/>
 
-## `$ cat contact.yaml`
+<p align="center">
+  <img src="./term-contact.svg" alt="$ cat contact.yaml" />
+</p>
 
 ```yaml
 contact:
