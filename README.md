@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=1ED760" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1ED760" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=1ED760" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=1ED760" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=1ED760" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1ED760" alt="SQL" />
 </p>
 
