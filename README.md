@@ -63,7 +63,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=1ED760" alt="SQLite" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1ED760" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1ED760" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1ED760" alt="MySQL" />
 </p>
 
 **`tools/`**
