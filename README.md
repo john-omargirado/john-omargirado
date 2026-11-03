@@ -43,17 +43,19 @@
   <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1ED760" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=1ED760" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1ED760" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=1ED760" alt="Dart" />
   <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=1ED760" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=1ED760" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=1ED760" alt="Java" />
   <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1ED760" alt="SQL" />
 </p>
 
 **`frameworks/`**
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=1ED760" alt="Flutter" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=1ED760" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=1ED760" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=1ED760" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=1ED760" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=1ED760" alt="Laravel" />
   <img src="https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=1ED760" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logoColor=1ED760" alt="LangChain" />
@@ -62,9 +64,9 @@
 **`databases/`**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=1ED760" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1ED760" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1ED760" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=1ED760" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=1ED760" alt="SQLite" />
 </p>
 
 **`tools/`**
@@ -112,12 +114,27 @@ Role:   Junior Full Stack Developer @ BU ICTO
 
 <br/>
 
+```
+$ ls projects/
+
+bulan-one-app/      Flutter civic app for Bulan, Sorsogon
+bulan-gov-website/  React redesign of the Municipality of Bulan site
+isko-life-ai/       Offline Flutter student companion with on-device LLM
+ojtrack/            Offline Flutter OJT tracker
+```
+
+<br/>
+
+---
+
+<br/>
+
 <p align="center">
   <img src="./term-contrib.svg" alt='$ git log --graph --since="1 year ago"' />
 </p>
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/john-omargirado/john-omargirado/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 <br/>
@@ -127,8 +144,8 @@ Role:   Junior Full Stack Developer @ BU ICTO
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=john-omargirado&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1ED760&icon_color=1ED760" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-omargirado&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1ED760" alt="Top Languages" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </p>
 
 <br/>
