@@ -90,10 +90,25 @@ commit 9f3a2c1
 Author: John Omar Girado
 Role:   Junior Full Stack Developer @ BU ICTO
 
-    UI modernization, backend optimization, and interactive
-    system development.
+    UI/UX overhaul: Transformed a legacy faculty system that
+    had no design, only a basic interface with bare
+    functionality, into a responsive, professionally styled
+    portal across 5 pages using Tailwind CSS, with Livewire
+    components for interactions that update without page
+    reloads.
 
-    stack: Tailwind CSS, PostgreSQL, Livewire
+    Teacher class management and grading: Built a dashboard
+    where professors filter by semester and block to view
+    their faculty load and class schedule, plus a grade
+    interface for viewing and editing student grades per
+    course, with pagination of 30 students per page, serving
+    all faculty members of Bicol University.
+
+    Query refactoring and data modeling: Refactored and
+    optimized PostgreSQL queries and schemas for the
+    professor, course, and student relationships, so each
+    professor sees only their own courses, students, and
+    schedules based on the selected filters.
 ```
 
 <br/>
